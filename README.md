@@ -21,7 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-<h3 align="left">Bancos de Dados:</h3>
+<h3 align="left">Banco de Dados:</h3>
 
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=fff)

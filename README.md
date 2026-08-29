@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Olá! Sou Murilo Nunes Neto, tenho 26 anos, sou Técnico em Administração de Empresas e graduando em Analise e Desenvolvimento de Sistemas, com ampla experiência profissional em banco de dados SQL e APIs Rest feitas com NodeJS.<br><br>Tenho foco em desenvolvimento backend, com ênfase na engenharia de microsserviços para integração de sistemas e na aplicação de IA em soluções interativas, sempre seguindo boas práticas de arquitetura, desempenho e escalabilidade.</p>
+<p align="left">Olá! Sou Murilo Nunes Neto, 26 anos, Técnico em Administração e graduando em ADS. Atuo como Analista de Dados e BI, especializado em SQL (SQL Server/Oracle), Python (Pandas), Power BI (DAX/Power Query) e automações corporativas. 
+ 
+ Unindo visão de processos de negócio à construção de Data Apps, pipelines de ETL e soluções de Inteligência Artificial para otimizar decisões operacionais e estratégicas.</p>
 
 ###
 

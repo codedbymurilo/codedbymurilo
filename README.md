@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou Murilo Nunes Neto, 26 anos, Técnico em Administração e graduando em ADS. Atuo como Analista de Dados e BI, especializado em SQL (SQL Server/Oracle), Python (Pandas), Power BI (DAX/Power Query) e automações corporativas. 
+<p align="left">Olá! Sou Murilo Nunes Neto, 26 anos, Técnico em Administração e graduando em ADS. Atuo como Analista de Sistemas e Dados, especializado em SQL (SQL Server/Oracle), Python (Pandas), Power BI (DAX/Power Query) e automações corporativas. 
  
  Unindo visão de processos de negócio à construção de Data Apps, pipelines de ETL e soluções de Inteligência Artificial para otimizar decisões operacionais e estratégicas.</p>
 

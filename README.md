@@ -28,10 +28,6 @@
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
 ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 
-<h3 align="left">Análise de Dados:</h3>
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=fff)
 
 <!-- ###
 

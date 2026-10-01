@@ -21,7 +21,6 @@ Profissional em transição para a área de Engenharia de Software, com experiê
 
 **Ferramentas & Utilitários**  
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=Claude-Code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white)
 
